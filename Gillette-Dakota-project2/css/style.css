@@ -1,0 +1,110 @@
+
+
+	/* Body & background*/
+
+
+body {
+    font-family: roboto, helvetica, sans-serif;
+    font-size: 14px;
+    color: #000000;
+    background-color: #225378;
+    margin: 20px;
+}
+
+	/*  Main content */
+
+
+#container {
+	width:1024px;
+	height:auto;
+	margin:0 auto;
+	text-align: left;	
+	border: 1px solid #225377;
+	border-radius: 20px 20px;
+	background-color: #F7F9E5;
+	padding: 10px;
+}
+
+
+
+/* strong & emphasis etc. coloring*/
+
+strong {
+	color: #EB7F00;
+}
+
+em {
+	color: #EB7F00;
+}
+
+q {
+	color: #EB7F00;
+}
+
+
+
+
+	/* Lists */
+
+
+#unordered  li {
+	display: inline;
+	margin-right: 10px;
+	border: 1px solid #225377;
+	border-radius: 20px 20px;
+	background-color: #225378;
+	padding: 10px;
+}	
+
+	/* Headings */
+  
+
+h2, h3, h4 {
+	color: #00ABFF;
+	text-shadow: 1px 1px #668
+}  
+
+h1 {
+	color: #225378;
+	font-size: 2em;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 4px;
+    font-style: oblique;
+    text-align: left;
+    letter-spacing: 0.5em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: rgba(12,231,220,0.12);
+
+}
+
+	/* Paragraphs*/
+
+
+p {
+	line-height: 20px;
+}
+	
+	
+	
+	/* Links */
+
+
+a:link {
+	color: #FFF;
+	text-decoration: none;
+	display: inline;
+}
+
+a:visited {	
+	color: #EB7F00;
+}
+
+a:hover {
+	color: #EB7F00;
+}
+
+a:active {
+ 	color: #ACF0F2;
+ }	

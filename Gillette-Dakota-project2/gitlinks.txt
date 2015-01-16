@@ -1,0 +1,8 @@
+
+File location in HTML format
+https://github.com/DJG10212/dws1/blob/ghs-pages/Assignment%20Project%201/index.html
+
+
+Regular page view in browser
+
+http://htmlpreview.github.io/?https://github.com/DJG10212/dws1/blob/ghs-pages/Assignment%20Project%201/index.html
