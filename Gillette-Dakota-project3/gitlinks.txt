@@ -1,0 +1,8 @@
+
+File location in HTML format
+https://github.com/DJG10212/dws1/tree/master/Gillette-Dakota-project2
+
+
+Regular page view in browser
+
+http://htmlpreview.github.io/?https://github.com/DJG10212/dws1/blob/master/Gillette-Dakota-project2/index.html
